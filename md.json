@@ -2,5 +2,6 @@
 "name" : "CarthageX Labs Pool",
 "description" : "CarthageX Labs Stake Pool Operator",
 "ticker" : "CXLP",
-"homepage" : "https://cxlp.carthagexlabs.com"
+"homepage" : "https://cxlp.carthagexlabs.com",
+"verify" : "c6fe0ae92334f0e956"
 }
