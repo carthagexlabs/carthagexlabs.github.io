@@ -1,7 +1,13 @@
 {
 "name" : "CarthageX Labs Pool",
-"description" : "CarthageX Labs Stake Pool Operator",
+"description": "Stake pool operated by CarthageX Labs on Cardano Preview testnet, focusing on secure, privacy-focused blockchain solutions.",
 "ticker" : "CXLP",
 "homepage" : "https://cxlp.carthagexlabs.com",
-"verify" : "5a26f195779677d96c"
+"verify" : "5a26f195779677d96c",
+"social": {
+  "twitter": "https://x.com/CarthageXLabs",
+  "github": "https://github.com/carthagexlabs",
+  "telegram": "https://t.me/+GiaspOq1dLw5YjRi",
+  "facebook": "https://www.facebook.com/CarthageXLabs"
+  }
 }
